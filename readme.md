@@ -1,1 +1,1 @@
-###just tring to build a website using Github pages
+### just tring to build a website using Github pages
